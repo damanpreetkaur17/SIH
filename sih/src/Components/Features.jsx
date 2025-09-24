@@ -29,12 +29,6 @@ const features = [
     icon: ArrowTrendingUpIcon,
   },
   {
-    title: "Crop Growth Tracker",
-    description:
-      "Track your crops' growth progress over time and get insights for optimization.",
-    icon: ChartBarIcon,
-  },
-  {
     title: "Resource Locator Map",
     description:
       "Locate nearby resources like fertilizers, seeds, and equipment with ease.",

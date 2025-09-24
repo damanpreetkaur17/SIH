@@ -8,7 +8,7 @@ import Farmer3 from "../assets/Farmer3.png";
 const testimonials = [
   {
     name: "Slamet",
-    role: "Rice Farmer — Central Java",
+    role: "Rice Farmer — Punjab",
     image: Farmer1,
     quote:
       "Since using the platform, I’ve saved time and increased my harvest. The tools are easy to use, even for someone like me who’s not tech-savvy.",
