@@ -8,7 +8,7 @@ import About from "./components/About";
 import FAQSection from "./components/FAQSection";
 import FarmerSay from "./components/FarmerSay";
 import Footer from "./components/Footer";
-import LoginPage from "./pages/LoginPage"; // your login page
+import LoginPage from "./pages/LoginPage"; 
 
 // Optional: Landing page combining all sections
 const LandingPage = () => (
