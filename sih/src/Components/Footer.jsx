@@ -32,7 +32,7 @@ const Footer = () => {
           viewport={{ once: true }}
           className="space-y-4"
         >
-          <h2 className="text-2xl font-bold text-green-200">Website Name</h2>
+          <h2 className="text-2xl font-bold text-green-200">AgroVerse</h2>
           <p className="text-green-300">
             Empowering farmers with smart AI tools for crop recommendations, disease detection, disaster alerts, and more.
           </p>
@@ -107,7 +107,7 @@ const Footer = () => {
         viewport={{ once: true }}
         className="mt-16 border-t border-green-700/40 pt-6 text-center text-green-100 text-sm"
       >
-        &copy; {new Date().getFullYear()} Website Name. All rights reserved.
+        &copy; {new Date().getFullYear()} AgroVerse. All rights reserved.
       </motion.div>
     </footer>
   );

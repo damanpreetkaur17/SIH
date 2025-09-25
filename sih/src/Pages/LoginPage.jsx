@@ -29,7 +29,7 @@ const LoginPage = () => {
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 1 }}
       >
-        <h1 className="text-5xl font-bold text-gray-800 dark:text-white mb-4">Website name</h1>
+        <h1 className="text-5xl font-bold text-gray-800 dark:text-white mb-4">AgroVerse</h1>
         <p className="text-lg text-gray-600 dark:text-gray-300 text-center max-w-xs">
           Intelligent Agriculture Solutions for Modern Farming
         </p>

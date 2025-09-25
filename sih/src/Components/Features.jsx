@@ -78,7 +78,7 @@ const Features = () => {
           viewport={{ once: true }}
         >
           <h2 className="text-4xl md:text-5xl font-extrabold text-green-900">
-            Grow Smarter with Website Name
+            Grow Smarter with AgroVerse
           </h2>
           <p className="mt-4 text-green-800/80 text-lg md:text-xl">
             Explore the powerful features designed to help farmers thrive

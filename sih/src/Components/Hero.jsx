@@ -31,7 +31,7 @@ const Hero = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
         >
-          <span className="text-2xl font-bold text-green-900">Website Name</span>
+          <span className="text-2xl font-bold text-green-900">AgroVerse</span>
         </motion.div>
 
         {/* Navbar */}
